@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/vaaty"><img src="https://api.daily.dev/devcards/08778e4996bf4221bdd5f3b0afd435b7.png?r=ntl" width="256"align="right"/></a>
+ <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/LittleVaaty/LittleVaaty/devcard/devcard.svg"
+    />
+  </a>
 ![Metrics](https://raw.githubusercontent.com/LittleVaaty/LittleVaaty/github-metrics/github-metrics.svg)
