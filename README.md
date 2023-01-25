@@ -14,15 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="left">
- <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/LittleVaaty/LittleVaaty/devcard/devcard.svg"
-    />
-  </a>
- </div>
  
 ![Metrics](https://raw.githubusercontent.com/LittleVaaty/LittleVaaty/github-metrics/github-metrics.svg)
